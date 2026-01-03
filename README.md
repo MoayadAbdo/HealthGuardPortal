@@ -1,4 +1,4 @@
-# 🏥 HealthGuard Admin Dashboard
+#  HealthGuard Admin Dashboard
 
 **HealthGuard** is a modern healthcare **admin dashboard** built to help medical staff and administrators monitor patients, alerts, system activity, and users from a single, clean interface.
 
@@ -6,14 +6,14 @@ The project focuses on **clarity, scalability, and clean frontend architecture**
 
 ---
 
-## ✨ Features
+##  Features
 
-- 📊 **Dashboard overview** with key statistics
-- 🧑‍⚕️ **Patient management** (view, search, manage)
-- 🚨 **Alerts & notifications** with severity levels
-- 🧾 **System & audit logs** for traceability
-- 👤 **User & role management**
-- 🔔 **Toast notifications** for instant feedback
+-  **Dashboard overview** with key statistics
+-  **Patient management** (view, search, manage)
+-  **Alerts & notifications** with severity levels
+-  **System & audit logs** for traceability
+-  **User & role management**
+-  **Toast notifications** for instant feedback
 
 ---
 
