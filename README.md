@@ -47,6 +47,15 @@ To run the project locally:
 
 npm install
 npm run dev
- ├─ pages/
- ├─ lib/
- └─ main.tsx
+
+
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Patients Management
+![Patients](screenshots/patients.png)
+
+### Alerts & Logs
+![Alerts](screenshots/alerts.png)
