@@ -52,10 +52,10 @@ npm run dev
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Patients Management
-![Patients](screenshots/patients.png)
+![Patients](screenshots/Patients.png)
 
 ### Alerts & Logs
-![Alerts](screenshots/alerts.png)
+![Alerts](screenshots/Alerts.png)
